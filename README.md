@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Serkan.
-- 👀 I’m interested in different database management systems and big data technologies. 
-- 🌱 I’m currently learning big data and postgresql.
+- 👀 I’m interested in different database management systems and big data technologies.
+- ✨ I'm working with Oracle, SQL Server, Postgresql, Mysql, and MongoDB.
+- 🌱 I’m currently learning big data.
 - 📫 Reach me by email.
 
 <!---
